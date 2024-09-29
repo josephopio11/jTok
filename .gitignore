@@ -1,0 +1,4 @@
+.venv
+.idea
+video_data.csv
+*.mp4
